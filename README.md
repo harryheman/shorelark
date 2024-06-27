@@ -6,7 +6,7 @@
 
 ![screenshot](./screenshot.png)
 
-Интересно, как это работает? [Учимся летать](https://pwy.io/posts/learning-to-fly-pt1).
+Интересно, как это работает? [Учимся летать](https://habr.com/ru/companies/timeweb/articles/817585/).
 
 ## Демо
 
