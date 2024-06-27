@@ -20,7 +20,7 @@
 
 ```bash
 # Клонируем репозиторий
-$ git clone https://github.com/Patryk27/shorelark
+$ git clone https://github.com/harryheman/shorelark.git
 $ cd shorelark
 
 # Компилируем код Rust
@@ -29,7 +29,7 @@ $ wasm-pack build --release
 
 # Устанавливаем зависимости JavaScript
 $ cd ../../www
-$ npm install
+$ npm i
 
 # Запускаем приложение JavaScript в режиме разработки
 $ npm run dev
