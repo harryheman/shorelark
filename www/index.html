@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" href="data:." />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Shorelark</title>
+  </head>
+  <body>
+    <div id="container">
+      <div id="terminal-panel" class="panel">
+        <textarea id="terminal-stdout" readonly></textarea>
+        <input id="terminal-stdin" />
+      </div>
+      <div id="viewport-panel" class="panel">
+        <canvas id="viewport"></canvas>
+      </div>
+    </div>
+    <script type="module" src="/main.js"></script>
+  </body>
+</html>
