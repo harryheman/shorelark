@@ -8,6 +8,10 @@
 
 Интересно, как это работает? [Учимся летать](https://pwy.io/posts/learning-to-fly-pt1).
 
+## Демо
+
+> [https://shorelark.netlify.app/](https://shorelark.netlify.app/)
+
 ## Запуск
 
 ### Cargo и npm
